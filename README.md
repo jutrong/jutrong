@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=#4D47C3&height=300&section=header&text=JuHyun%20Lee&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=#4D47C3&height=300&section=header&text=capsule%20render&fontSize=90)
 <!--
 **jutrong/jutrong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
