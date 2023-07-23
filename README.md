@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=4D47C3&height=150&section=header&text=JuHyun%20Lee&fontSize=60&animation=fadeIn&fontColor=ffffff&stroke=111111&strokeWidth=0.5&descSize=30&desc=ju_velop&descAlignY=24&descAlign=65&descSize=15) 
+![header](https://capsule-render.vercel.app/api?type=Waving&color=4D47C3&height=150&section=header&text=JuHyun%20Lee&fontSize=60&animation=fadeIn&fontColor=333333&stroke=111111&strokeWidth=0.5&descSize=30&desc=ju_velop&descAlignY=24&descAlign=65&descSize=15&fontAlign=70) 
