@@ -3,18 +3,21 @@
 <div align=center>  
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyojaekim)](https://hits.seeyoufarm.com)
-[![Tech blog badge](https://img.shields.io/badge/-Tech%20blog-grey?style=flat&link=https://hyojaedev.tistory.com/)](https://hyojaedev.tistory.com/)
-[![Gmail badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:hyojaekim@gmail.com)](mailto:hyojaekim@gmail.com)
+[![Tech blog badge](https://img.shields.io/badge/-Tech%20blog-grey?style=flat&link=https://https://jutrong.netlify.app/blog/)](https://jutrong.netlify.app/blog/)
+[![Gmail badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:leek71358@gmail.com)](mailto:leek71358@gmail.com)
 
 </div>
 
-### 🏃 Work Experience
-* Server Developer / NAVER Webtoon (2021.10.05 - )
-* Server Developer (Intern) / NAVER Webtoon (2021.07.05 - 2021.08.27)
+### 🏃 Develop Experience
+* Preonboarding Challenge CleanCode / Wanted (2023.11.07 - 2023.11.17)
+* SW Engineer Track / Alice Coding(2023.04.15 - 2023.09.02)
 
-### 💻 Develop Experience
-* Backend Developer / woowacourse (2019.05 - 2019.12)
+### 💻 My Develop Rule
+* **KISS** / Keep It Simple stupid
 
+* You Aren`t Gonna Need Itz / **YAGNI**
+
+* **DRY** / Dont repeat yourself
 ### :octocat: My Github Stats
-[![Github stats](https://github-readme-stats.vercel.app/api?username=hyojaekim&show_icons=true&icon_color=036635&title_color=036635&hide=stars&text_color=5F5F5F)](https://github.com/hyojaekim)
-[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyojaekim&layout=compact&title_color=b07219)](https://github.com/hyojaekim)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=jutrong&show_icons=true&icon_color=036635&title_color=036635&hide=stars&text_color=5F5F5F)](https://github.com/jutrong)
+[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jutrong&layout=compact&title_color=b07219)](https://github.com/jutrong)
