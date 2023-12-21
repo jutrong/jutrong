@@ -8,9 +8,7 @@
 
 </div>
 
-### 🏃 Develop Experience
-* Preonboarding Challenge CleanCode / Wanted (2023.11.07 - 2023.11.17)
-* SW Engineer Track / Elice Coding(2023.04.15 - 2023.09.02)
+
 
 ### 💻 My Develop Rule
 * **KISS** / Keep It Simple stupid
