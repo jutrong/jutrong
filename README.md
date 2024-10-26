@@ -3,7 +3,7 @@
 <div align=center>  
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyojaekim)](https://hits.seeyoufarm.com)
-[![Tech blog badge](https://img.shields.io/badge/-Tech%20blog-grey?style=flat&link=https://https://jutrong.netlify.app/blog/)](https://jutrong.netlify.app/blog/)
+
 [![Gmail badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:leek71358@gmail.com)](mailto:leek71358@gmail.com)
 
 </div>
